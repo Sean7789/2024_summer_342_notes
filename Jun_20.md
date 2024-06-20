@@ -2,7 +2,7 @@
 Hello World
 
 ### Things I'm confused about
-How long do I pay parking in summer?
+How long do I pay for parking in SUMMER?
 
 ### Code demo in lecture
 ```c++
@@ -11,3 +11,8 @@ void main() {
   }
 ```
 ### Something to read after the lecture
+chapter textbook blah
+
+### When to resolve question
+by the end of the first week
+
